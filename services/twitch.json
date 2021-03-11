@@ -1,0 +1,17 @@
+{
+  "name": "twitch",
+  "url": "https://passport.twitch.tv/register?trusted_request=true",
+  "body": {
+    "birthday": {
+      "day": 19,
+      "month": 3,
+      "year": 1988
+    },
+    "client_id": "kd1unb4b3q4t58fwlpcbzcbnm76a8fp",
+    "include_verification_code": true,
+    "password": "$password",
+    "phone_number": "$phone",
+    "username": "$username"
+  },
+  "params": "$json $username $password"
+}

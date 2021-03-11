@@ -1,0 +1,8 @@
+{
+  "name": "lenta",
+  "url": "https://lenta.com/api/v1/authentication/requestValidationCode",
+  "body": {
+    "phone": "$phone"
+  },
+  "params": "$json"
+}

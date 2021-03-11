@@ -1,0 +1,8 @@
+{
+  "name": "sunlight",
+  "url": "https://api.sunlight.net/v3/customers/authorization/",
+  "body": {
+    "phone": "$phone_np"
+  },
+  "params": "$json"
+}
