@@ -1,0 +1,1 @@
+{"method": "post", "name": "citilink", "url": "https://www.citilink.ru/registration/confirm/phone/$phone", "body": {"n": "n"}, "key_with_phone": "n"}
