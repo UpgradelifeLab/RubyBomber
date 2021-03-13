@@ -1,0 +1,6 @@
+{
+"name": "Tinder", 
+"url": "https://api.gotinder.com/v2/auth/sms/send?auth_type=sms&locale=ru", 
+"body": {"phone": "$phone_np"}, 
+"params": ""
+}

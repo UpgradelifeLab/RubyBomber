@@ -1,0 +1,6 @@
+{
+"name": "Korona", 
+"url": "https://koronapay.com/transfers/online/api/users/otps", 
+"body": {"phone": "$phone_np"}, 
+"params": ""
+}
